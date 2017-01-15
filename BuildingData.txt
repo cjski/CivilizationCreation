@@ -1,0 +1,12 @@
+Library
+Butchers
+Fortune-Tellers
+Track
+Armoury
+University
+Carpenter
+Wagon-Makers
+Bar
+Research Lab
+Market
+Cathedral
